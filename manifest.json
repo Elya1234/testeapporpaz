@@ -7,28 +7,28 @@
     "background_color": "white",
     "theme_color": "white",
     "icons": [{
-        "src": "https://mk0orpaz0r3rku6jer3.kinstacdn.com/wp-content/uploads/2020/09/Orpaz-logo.png",
+        "src": "https://orpaz.fr/wp-content/uploads/2020/09/cropped-Favicon-Orpaz-180x180.jpg",
           "sizes": "128x128",
-          "type": "image/png"
+          "type": "image/jpg"
         }, {
-          "src": "https://mk0orpaz0r3rku6jer3.kinstacdn.com/wp-content/uploads/2020/09/Orpaz-logo.png",
+          "src": "https://orpaz.fr/wp-content/uploads/2020/09/cropped-Favicon-Orpaz-180x180.jpg",
           "sizes": "144x144",
-          "type": "image/png"
+          "type": "image/jpg"
         }, {
-          "src": "https://mk0orpaz0r3rku6jer3.kinstacdn.com/wp-content/uploads/2020/09/Orpaz-logo.png",
+          "src": "https://orpaz.fr/wp-content/uploads/2020/09/cropped-Favicon-Orpaz-180x180.jpg",
           "sizes": "152x152",
-          "type": "image/png"
+          "type": "image/jpg"
         }, {
-          "src": "https://mk0orpaz0r3rku6jer3.kinstacdn.com/wp-content/uploads/2020/09/Orpaz-logo.png",
+          "src": "https://orpaz.fr/wp-content/uploads/2020/09/cropped-Favicon-Orpaz-180x180.jpg",
           "sizes": "192x192",
-          "type": "image/png"
+          "type": "image/jpg"
         }, {
-          "src": "https://mk0orpaz0r3rku6jer3.kinstacdn.com/wp-content/uploads/2020/09/Orpaz-logo.png",
+          "src": "https://orpaz.fr/wp-content/uploads/2020/09/cropped-Favicon-Orpaz-180x180.jpg",
           "sizes": "256x256",
-          "type": "image/png"
+          "type": "image/jpg"
         }, {
-          "src": "https://mk0orpaz0r3rku6jer3.kinstacdn.com/wp-content/uploads/2020/09/Orpaz-logo.png",
+          "src": "https://orpaz.fr/wp-content/uploads/2020/09/cropped-Favicon-Orpaz-180x180.jpg",
           "sizes": "512x512",
-          "type": "image/png"
+          "type": "image/jpg"
         }]
   }
