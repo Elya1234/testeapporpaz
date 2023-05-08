@@ -4,8 +4,8 @@
     "lang": "fr",
     "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "black",
-    "theme_color": "black",
+    "background_color": "white",
+    "theme_color": "white",
     "icons": [{
         "src": "https://mk0orpaz0r3rku6jer3.kinstacdn.com/wp-content/uploads/2020/09/Orpaz-logo.png",
           "sizes": "128x128",
